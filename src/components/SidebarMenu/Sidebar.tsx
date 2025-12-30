@@ -35,7 +35,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose, setSidebarOpe
             >
                <img src={sidebarIcon} alt="Sidebar Toggle" />
             </button>
-            {items.map((item) => (
+            {isOpen && items.map((item) => (
                <SidebarItem key={item.id} {...item} />
             ))}
          </div>

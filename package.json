@@ -1,6 +1,6 @@
 {
   "homepage": "https://dimawebfrontend.github.io/storybook/",
-  "name": "storybook-app",
+  "name": "storybook",
   "private": true,
   "version": "0.0.0",
   "type": "module",
