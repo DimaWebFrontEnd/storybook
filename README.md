@@ -10,7 +10,6 @@
 <img width="317" height="112" alt="btn-succes" src="https://github.com/user-attachments/assets/7b945548-0547-45af-896f-664a20667801" />
 <img width="315" height="121" alt="btn-error" src="https://github.com/user-attachments/assets/088ec477-f16a-42df-afe5-8270191bc2e9" />
 
-
-
-
-
+# Sidebar Menu
+<img width="1915" height="800" alt="image" src="https://github.com/user-attachments/assets/8c380a04-5614-437c-80b6-7f8c5d15bf13" />
+<img width="1917" height="802" alt="image" src="https://github.com/user-attachments/assets/ffcd27a6-4c96-40d0-86c9-bf338d1e3438" />
