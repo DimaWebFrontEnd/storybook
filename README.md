@@ -1,4 +1,4 @@
-# Small React-app. Only Desktop No-responsive. 
+# Small React app. Only Desktop, No-responsive. 
 3 components: Input, SidebarMenu, Toasts. Works with Storybook. 
 
 # Input:
@@ -7,8 +7,9 @@
 
 
 # Toasts:
-<img width="346" height="149" alt="image" src="https://github.com/user-attachments/assets/e3abe008-25bc-44d2-9760-f5e4cb572fd0" />
-<img width="343" height="110" alt="image" src="https://github.com/user-attachments/assets/e696bb3d-6b64-4f60-846d-75db312cc116" />
+<img width="317" height="112" alt="btn-succes" src="https://github.com/user-attachments/assets/7b945548-0547-45af-896f-664a20667801" />
+<img width="315" height="121" alt="btn-error" src="https://github.com/user-attachments/assets/088ec477-f16a-42df-afe5-8270191bc2e9" />
+
 
 
 
