@@ -2,8 +2,9 @@
 3 components: Input, SidebarMenu, Toasts. Works with Storybook. 
 
 # Input:
-<img width="554" height="205" alt="image" src="https://github.com/user-attachments/assets/3a19ca27-14f3-4231-84dd-bfdc43ca1908" />
-<img width="488" height="195" alt="image" src="https://github.com/user-attachments/assets/c7faa579-fd0a-43dc-9bf2-da465f7ae337" />
+<img width="470" height="208" alt="input-before" src="https://github.com/user-attachments/assets/1d390af8-35d4-4a27-b701-e9cc62050ff8" />
+<img width="532" height="208" alt="input-after" src="https://github.com/user-attachments/assets/8fcb381d-d255-457a-9ca3-2d32a012295d" />
+
 
 # Toasts:
 <img width="346" height="149" alt="image" src="https://github.com/user-attachments/assets/e3abe008-25bc-44d2-9760-f5e4cb572fd0" />
