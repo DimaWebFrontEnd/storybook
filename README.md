@@ -1,4 +1,4 @@
-# Small React-app. Only Desktop. 
+# Small React-app. Only Desktop No-responsive. 
 3 components: Input, SidebarMenu, Toasts. Works with Storybook. 
 
 # Input:
