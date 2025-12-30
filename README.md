@@ -11,6 +11,7 @@
 <img width="315" height="121" alt="btn-error" src="https://github.com/user-attachments/assets/088ec477-f16a-42df-afe5-8270191bc2e9" />
 
 # Sidebar Menu
-<img width="537" height="795" alt="sidebar-close" src="https://github.com/user-attachments/assets/bec5c137-0fea-4ac3-b628-16974e59ddb4" />
-<img width="625" height="775" alt="sidebar-open" src="https://github.com/user-attachments/assets/f7d132d3-1eb2-4e67-8b22-ac6c8d6f5f41" />
+<img width="1912" height="795" alt="image" src="https://github.com/user-attachments/assets/267e7ba2-a1f6-4b2f-82ae-5df5917352ca" />
+<img width="1908" height="794" alt="image" src="https://github.com/user-attachments/assets/d98a4176-f7f9-4e7f-aa97-ae5e35261253" />
+
 
